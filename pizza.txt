@@ -15,3 +15,4 @@ Adding more types
 
 1- pizza melo
 2- piza Kila
+3- cook more than 5 min
